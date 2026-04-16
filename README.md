@@ -1,4 +1,4 @@
-# Mi Proyecto
+# Mi Super Proyecto
 
 ## Descripción
 [Descripción breve del proyecto]
